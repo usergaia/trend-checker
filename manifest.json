@@ -1,6 +1,7 @@
 {
     "name": "Twitter Trends",
-    "version": "This is an extension to be updated with Twitter Trends",
+    "version": "1.0.0",
+    "description": "This is an extension to be updated with Twitter Trends",
     "manifest_version": 3,
     "author": "Ervin Josh",
     "action": {
