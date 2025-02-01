@@ -15,7 +15,7 @@ A lightweight browser extension to stay updated on **Twitter trends**, **global 
 
 ## Technologies
 - **Frontend**: HTML, CSS, JavaScript.
-- **Backend**: Node.js/Python for API integration.
+- **Backend**: Node.js/Python for API integration. (tentative)
 - **APIs**: Twitter API, NewsAPI, Google Trends (via `pytrends`).
 
 ## Installation
