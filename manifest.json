@@ -1,0 +1,13 @@
+{
+    "manifest_version": 3,
+    "name": "Trend Extension",
+    "version": "1.0.0",
+    "description": "A simple browser extension to fetch and display growing trends.",
+    "author": "Ervin Josh, Edgar Rafael Jr.",
+    "action": {
+      "default_popup": "index.html",
+      "default_title": "Trend Extension",
+      "default_icon": "logo.jpg"
+      }
+    }
+
