@@ -1,0 +1,10 @@
+{
+    "name": "Twitter Trends",
+    "version": "This is an extension to be updated with Twitter Trends",
+    "manifest_version": 3,
+    "author": "Ervin Josh",
+    "action": {
+        "default_popup": "index.html",
+        "default_title": "Twitter Trends"
+    }
+}
